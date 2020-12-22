@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/gflags_strip_flags_test.dir/gflags_strip_flags_test.cc.o  -o ../bin/gflags_strip_flags_test  ../libgflags_nothreads_debug.a 

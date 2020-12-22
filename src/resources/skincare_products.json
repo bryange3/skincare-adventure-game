@@ -1,0 +1,198 @@
+{
+  "routines": [
+    {
+      "name": "Bougie Evening",
+      "product categories": [
+        {
+          "type": "first cleanser",
+          "products": [
+            {
+              "name": "Farmacy Cleansing Balm",
+              "points": 10,
+              "image url": "https://www.sephora.com/productimages/sku/s2111425-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=300",
+              "message": "Great choice! This is an all-time favorite cleansing balm in the skincare community and makes for a great first cleanse."
+            },
+            {
+              "name": "Neutrogena Makeup Wipes",
+              "points": -5,
+              "image url": "https://images.ulta.com/is/image/Ulta/2298522",
+              "message": "Uh oh! Makeup wipes are very harsh and stripping to the skin. There's also a good chance that when you use them you don't completely remove your makeup."
+            },
+            {
+              "name": "Garnier Micellar Water",
+              "points": 7,
+              "image url": "https://pics.drugstore.com/prodimg/606926/900.jpg",
+              "message": "Good choice! Some micellar water on a cotton pad is a simple way to remove your makeup and sunscreen. Micellar water is a better option than makeup wipes because you can really saturate your cotton pad so that it doesn't pull on your face!"
+            }
+          ]
+        },
+        {
+          "type": "water-based cleanser",
+          "products": [
+            {
+              "name": "KraveBeauty Hydrating Cleanser",
+              "points": 10,
+              "image url": "https://cdn.shopify.com/s/files/1/2090/8057/products/KRAVE_2-1_1_1024x.jpg?v=1569098046",
+              "message": "Excellent choice! This is the perfect cleanser to remove impurities from the skin while keeping the skin hydrated."
+            },
+            {
+              "name": "Head & Shoulders Shampoo",
+              "points": -10,
+              "image url": "https://images-na.ssl-images-amazon.com/images/I/81oBAm2GYxL._SL1500_.jpg",
+              "message": "Oh no! Please don't use shampoo as your cleanser. This can be incredibly stripping to the skin."
+            },
+            {
+              "name": "Vanicream Gentle Cleanser",
+              "points": 10,
+              "image url": "https://pics.drugstore.com/prodimg/516680/900.jpg",
+              "message": "Nice, this is an excellent option that's also quite affordable!"
+            }
+          ]
+        },
+        {
+          "type": "toner",
+          "products": [
+            {
+              "name": "Haruharu Hyaluronic Toner",
+              "points": 10,
+              "image url": "https://images.squarespace-cdn.com/content/v1/5dc5e29d54652d542af4b370/1574726708243-HI9Q9UH1D16MBQC3ZYH6/ke17ZwdGBToddI8pDm48kHixDjhP-6kr9nwXiAD6etJ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0pTKqSDRwmMK43IUI3HojJURTsZxiLgf5hiVHYELvW813LK86nSRaP7vdVOsYKCiuQ/Toner+300ml%2C+150ml.jpg?format=1500w",
+              "message": "Nice choice! This is a good way to add hydration into the skin."
+            },
+            {
+              "name": "KraveBeauty Exfoliator",
+              "points": 10,
+              "image url": "https://cdn.shopify.com/s/files/1/2090/8057/products/75a01814d7aa661425f432703933228b_1024x.jpg?v=1569098046",
+              "message": "Good pick! This is a great way to exfoliate your skin in a non-irritating and soothing way."
+            },
+            {
+              "name": "Thayer's Toner",
+              "points": -2,
+              "image url": "https://images.ulta.com/is/image/Ulta/2540933?op_sharpen=1&resMode=bilin&qlt=85&wid=800&hei=800&fmt=jpg",
+              "message": "Oh no! This toner is quite drying."
+            }
+          ]
+        },
+        {
+          "type": "serum",
+          "products": [
+            {
+              "name": "KraveBeauty GBR Serum",
+              "points": 10,
+              "image url": "https://cdn.shopify.com/s/files/1/2090/8057/products/1-2_1024x.jpg?v=1598503928",
+              "message": "This is a great option to help restore and maintain a healthy skin barrier! Good choice."
+            },
+            {
+              "name": "Naturium Hyaluronic Serum",
+              "points": 10,
+              "image url": "https://cdn.shopify.com/s/files/1/0105/2265/6823/products/NATR_Catalog_HA-Serum-CapOff_800x.jpg?v=1593125663",
+              "message": "Nice! This is great for hydrating the skin."
+            }
+          ]
+        },
+        {
+          "type": "moisturizer",
+          "products": [
+            {
+              "name": "CeraVe Lotion",
+              "points": 10,
+              "image url": "https://images.heb.com/is/image/HEBGrocery/001281037",
+              "message": "Amazing choice! This is a super affordable and great moisturizer for many skin types."
+            },
+            {
+              "name": "Clean & Clear Moisturizer",
+              "points": -5,
+              "image url": "https://www.cleanandclear.ca/sites/cleanandclear_ca/files/product-images/ess-dam.png",
+              "message": "This is not such a great choice because it contains fragrance and could be irritating."
+            },
+            {
+              "name": "Biossance Omega Cream",
+              "points": 10,
+              "image url": "https://m.media-amazon.com/images/I/61lOOYLVZUL.jpg",
+              "message": "Awesome selection! This cream is incredibly nourishing and great for those with drier skin types."
+            },
+            {
+              "name": "None",
+              "points": -20,
+              "image url": "https://cdn.pixabay.com/photo/2012/04/12/20/12/x-30465_640.png",
+              "message": "Oh no! Moisturizer is necessary for restoring and hydrating your skin."
+            }
+          ]
+        },
+        {
+          "type": "oil",
+          "products": [
+            {
+              "name": "The Ordinary Rosehip Oil",
+              "points": 10,
+              "image url": "https://images-na.ssl-images-amazon.com/images/I/51vgm7M3TvL._SL1024_.jpg",
+              "message": "Excellent choice! Rosehip oil has so many great benefits for the skin and helps improve your skin barrier."
+            },
+            {
+              "name": "Coconut Oil",
+              "points": -10,
+              "image url": "https://hhp-blog.s3.amazonaws.com/2017/04/iStock-466130802.jpg",
+              "message": "Coconut oil is not great for skin! It can be extremely thick and heavy and could cause skin congestion."
+            },
+            {
+              "name": "Biossance Squalane Oil",
+              "points": 10,
+              "image url": "https://cdn.shopify.com/s/files/1/0806/5829/products/100_Squalane_580x@2x.jpg?v=1603848978",
+              "message": "This is a great choice! Squalane is a very light oil that can lock in moisture in the skin."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Simple Evening",
+      "product categories": [
+        {
+          "type": "water-based cleanser",
+          "products": [
+            {
+              "name": "KraveBeauty Hydrating Cleanser",
+              "points": 10,
+              "image url": "https://cdn.shopify.com/s/files/1/2090/8057/products/KRAVE_2-1_1_1024x.jpg?v=1569098046",
+              "message": "Excellent choice! This is the perfect cleanser to remove impurities from the skin while keeping the skin hydrated."
+            },
+            {
+              "name": "Head & Shoulders Shampoo",
+              "points": -10,
+              "image url": "https://images-na.ssl-images-amazon.com/images/I/81oBAm2GYxL._SL1500_.jpg",
+              "message": "Oh no! Please don't use shampoo as your cleanser. This can be incredibly stripping to the skin."
+            },
+            {
+              "name": "Vanicream Gentle Cleanser",
+              "points": 9,
+              "image url": "https://pics.drugstore.com/prodimg/516680/900.jpg",
+              "message": "Nice, this is an excellent option that's also quite affordable!"
+            }
+          ]
+        },
+        {
+          "type": "moisturizer",
+          "products": [
+            {
+              "name": "CeraVe Lotion",
+              "points": 10,
+              "image url": "https://images-na.ssl-images-amazon.com/images/I/51nFUxdgIZL._SL1000_.jpg",
+              "message": "Amazing choice! This is a super affordable and great moisturizer for many skin types."
+            },
+            {
+              "name": "Clean & Clear Moisturizer",
+              "points": -5,
+              "image url": "https://www.cleanandclear.ca/sites/cleanandclear_ca/files/product-images/ess-dam.png",
+              "message": "This is not such a great choice because it contains fragrance and could be irritating."
+            },
+            {
+              "name": "Biossance Omega Cream",
+              "points": 10,
+              "image url": "https://cdn.shopify.com/s/files/1/0806/5829/products/Omega_580x@2x.jpg?v=1604890644",
+              "message": "Awesome selection! This cream is incredibly nourishing and great for those with drier skin types."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

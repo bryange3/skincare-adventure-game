@@ -1,0 +1,64 @@
+{
+  "routines": [
+    {
+      "name": "Bougie Evening Skincare Routine",
+      "product categories": [
+        {
+          "type": "first cleanser",
+          "products": [
+            {
+              "name": "Farmacy Green Clean Cleansing Balm",
+              "points": 10,
+              "image url": "https://www.sephora.com/productimages/sku/s2111425-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=300",
+              "message": "Great choice! This is an all-time favorite cleansing balm in the skincare community and makes for a great first cleanse."
+            },
+            {
+              "name": "Neutrogena Makeup Wipes",
+              "points": -10,
+              "image url": "https://images.ulta.com/is/image/Ulta/2298522",
+              "message": "Uh oh! Makeup wipes are very harsh and stripping to the skin. There's also a good chance that when you use them you don't completely remove your makeup."
+            }
+          ]
+        },
+        {
+          "type": "water-based cleanser",
+          "products": [
+            {
+              "name": "KraveBeauty Matcha Hemp Hydrating Cleanser",
+              "points": 10,
+              "image url": "https://cdn.shopify.com/s/files/1/2090/8057/products/KRAVE_2-1_1_1024x.jpg?v=1569098046",
+              "message": "Excellent choice! This is the perfect cleanser to remove impurities from the skin while keeping the skin hydrated."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Simple Evening Skincare Routine",
+      "product categories": [
+        {
+          "type": "cleanser",
+          "products": [
+            {
+              "name": "Head & Shoulders Shampoo",
+              "points": -10,
+              "image url": "https://images-na.ssl-images-amazon.com/images/I/81oBAm2GYxL._SL1500_.jpg",
+              "message": "Oh no! Please don't use shampoo as your cleanser. This can be incredibly stripping to the skin."
+            }
+          ]
+        },
+        {
+          "type": "moisturizer",
+          "products": [
+            {
+              "name": "Clean & Clear Dual Action Moisturizer",
+              "points": 4,
+              "image url": "https://www.cleanandclear.ca/sites/cleanandclear_ca/files/product-images/ess-dam.png",
+              "message": "This is not such a great choice because it contains fragrance and could be irritating."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
